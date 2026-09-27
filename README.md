@@ -358,6 +358,14 @@ The bottom section displays:
 
 ---
 
+<img width="182" height="374" alt="1" src="https://github.com/user-attachments/assets/5c926d39-91b2-441a-b9c9-2de4f9e9da22" />
+
+<img width="176" height="368" alt="2" src="https://github.com/user-attachments/assets/5d21c1f7-0570-4f32-a2a3-58232c692ab0" />
+
+<img width="175" height="373" alt="3" src="https://github.com/user-attachments/assets/17a7ab09-0c8f-4f89-879a-fabe163ab2d3" />
+
+
+
 # Result
 
 The **Pet Catalog** Android application was successfully designed using **ListView and ImageView**.
